@@ -2,7 +2,7 @@
 Here you will find React.js exercises to solve. Happy coding!
 
 ## Exercise #1:
-- Write a code while using your HTML & CSS skills to replicate the following 2 targets with smallest possible code
-- Please write a pure JavaScript function that will toggle between hiding and showing an element with a smooth animation
+- Choose 5 of your colleagues and create a similar profile component for them.
+- Make sure the background is replicated, the edit button is added and social links are correct.
 
-![exercise#1](exercise#1.png)
+![exercise-1](exercise-1.png)
